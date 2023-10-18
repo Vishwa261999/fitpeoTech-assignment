@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.MuiChartsAxis-directionY {
+  display: none;
+}
+
+.MuiBarElement-series-auto-generated-id-0 {
+  fill: #9eb2e3 !important;
+}
